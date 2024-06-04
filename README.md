@@ -6,14 +6,23 @@ Boost your Solana token volume quickly and efficiently with [@bobthevolumebot](h
 🤙 Estimated Volume Generation (24h)
 
 ⏩  1 SOL:  $40K USD
+
 ⏩  5 SOL:  $180K USD
+
 ⏩  10 SOL: $400K USD
+
 ⏩  15 SOL: $650K USD
+
 ⏩  20 SOL: $850K USD
+
 ⏩  25 SOL: $1M USD
+
 ⏩  40 SOL: $1.7M USD
+
 ⏩  50 SOL: $2M USD
+
 ⏩ 100 SOL: $4M USD
+
 
 (These figures are estimates based on historical data and are not guaranteed)
 
